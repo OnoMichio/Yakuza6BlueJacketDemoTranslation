@@ -9,6 +9,8 @@ An attempt at translating the Yakuza 6 Blue Jacket demo
 
 @GarnetSunset for helping testing because I don't have a PS4 on hand and also for some db file stuffs (basically helping with translation)
 
+@KHHsubs for the subs themselves!
+
 ~~and me obviously because I'm doing translation~~
 
 # Download
