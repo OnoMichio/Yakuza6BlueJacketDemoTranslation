@@ -11,6 +11,8 @@ An attempt at translating the Yakuza 6 Blue Jacket demo
 
 @KHHsubs for the subs themselves!
 
+@barnfind for the work on adding @HeartlessSeph's DOD to the mod to make it actually fun
+
 ~~and me obviously because I'm doing translation~~
 
 # Download
