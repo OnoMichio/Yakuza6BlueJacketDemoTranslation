@@ -3,7 +3,7 @@ An attempt at translating the Yakuza 6 Blue Jacket demo
 
 
 # Credits
-@CapitanRetraso for ReARMP so that I can edit the text more easily                                                                                                                 
+@CapitanRetraso for ReARMP so that I can edit the text more easily and also testing along with helping with translation                                                             
 
 @Kaplas80 for ParTool                                                                                                                                                               
 
