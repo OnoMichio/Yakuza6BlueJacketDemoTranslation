@@ -24,7 +24,7 @@ No download yet because I am still working on translating stuff but I will leave
 
 Credits to @GarnetSunset for these
 
-https://user-images.githubusercontent.com/32009437/115925262-c4d11680-a478-11eb-8d39-683babad4eef.mp4
+[![Youtube Link](https://raw.githubusercontent.com/OnoMichio/Yakuza6BlueJacketDemoTranslation/main/sce_sys/pic0.png)](https://youtu.be/K_AQ8N2zL5Q)
 ![image](https://user-images.githubusercontent.com/32009437/115924418-97d03400-a477-11eb-9d84-81334be5bdb1.png)
 ![image](https://user-images.githubusercontent.com/32009437/115924866-35c3fe80-a478-11eb-851d-32a436ef31ef.png)
 
